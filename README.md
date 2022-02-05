@@ -1,11 +1,11 @@
 ![Web Developer || MERN Stack || Enthusiast in Web Application Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## Hi there 👋, I am Riyad Hossain
-#### Web Developer || MERN Stack || Enthusiast in Web Application Development
+<h1 align="center">Hi 👋, I'm Riyad Hossain</h1>
+<h3 align="center">Web Developer || JavaScript Developer || Enthusiast in Web Application Development</h3>
 
 It's Riyad Hossain
 
-Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js
+<h4>Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js MongoDB</h4>
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning JavaScript 
@@ -38,4 +38,11 @@ Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiyaadHossain)  
 
 ![GitHub metrics](https://metrics.lecoq.io/RiyaadHossain)  
+
+
+
+
+
+
+
 
