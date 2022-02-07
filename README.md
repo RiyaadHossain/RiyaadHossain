@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="center"  width="800"  src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
+ <img align="center"  width="800"  src="https://media-exp1.licdn.com/dms/image/C4E16AQHPD5qi3ic_FA/profile-displaybackgroundimage-shrink_200_800/0/1644253438395?e=1649894400&v=beta&t=7Sux8C5uxVG4ooywQlQtLn06H6T4HZHN_GqQl4j9Un8">
 </div>
 <h1 align="center">Hi 👋, I'm Riyad Hossain</h1>
 <h3 align="center">Web Developer || MERN Stack || Enthusiast in Web Application Development</h3>
