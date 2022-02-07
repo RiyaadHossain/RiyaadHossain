@@ -5,7 +5,7 @@
 
 It's Riyad Hossain
 
-<h4>Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js MongoDB</h4>
+<h4>Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js / MongoDB</h4>
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning JavaScript 
@@ -34,11 +34,14 @@ It's Riyad Hossain
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiyaadHossain&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaadHossain&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
+<br/>
+  
+<div align="center">
+  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RiyaadHossain)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RiyaadHossain)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiyaadHossain)  
 
