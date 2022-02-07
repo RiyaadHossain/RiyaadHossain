@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="center"  width="600" style="object-fit: cover" height= "300" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
+ <img align="center"  width="800"  src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Riyad Hossain</h1>
 <h3 align="center">Web Developer || MERN Stack || Enthusiast in Web Application Development</h3>
