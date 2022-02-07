@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="riyaad.hossain"/>
+ <img align="center"  width="600" style="object-fit: cover" height= "300" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Riyad Hossain</h1>
 <h3 align="center">Web Developer || MERN Stack || Enthusiast in Web Application Development</h3>
