@@ -1,4 +1,6 @@
+<div align="center">
 ![Web Developer || MERN Stack || Enthusiast in Web Application Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+</div>
 
 <h1 align="center">Hi 👋, I'm Riyad Hossain</h1>
 <h3 align="center">Web Developer || JavaScript Developer || Enthusiast in Web Application Development</h3>
