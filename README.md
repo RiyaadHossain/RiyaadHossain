@@ -3,7 +3,7 @@
 <img align="center" src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="riyaad.hossain"/>
 </div>
 <h1 align="center">Hi 👋, I'm Riyad Hossain</h1>
-<h3 align="center">Web Developer || JavaScript Developer || Enthusiast in Web Application Development</h3>
+<h3 align="center">Web Developer || MERN Stack || Enthusiast in Web Application Development</h3>
 
 It's Riyad Hossain
 
