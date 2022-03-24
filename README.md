@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="center"  width="800"  src="https://pbs.twimg.com/profile_banners/1476583042814676993/1644261192/600x200">
+ <img align="center"  width="600"  src="https://pbs.twimg.com/profile_banners/1476583042814676993/1644261192/600x200">
 </div>
 <h1 align="center">Hi 👋, I'm Riyad Hossain</h1>
 <h3 align="center">Web Developer || MERN Stack || Enthusiast in Web Application Development</h3>
