@@ -5,7 +5,7 @@
 <h1 align="center">👋 It's Riyad Hossain</h1>
 <h3 align="center">Web Developer || MERN Stack || Enthusiast in Web Application Development</h3>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+## **About Me: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">**
 It's Riyad Hossain
 
 <h4>Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js / MongoDB</h4>
@@ -19,7 +19,7 @@ It's Riyad Hossain
 
 ![Profile views](https://gpvc.arturio.dev/RiyaadHossain)  
 
-<h3 align="left">Connect with me:</h3>
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px></h2>
 <p align="left">
  <a href="https://twitter.com/riyaad_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaad_hossain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/riyaad-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaad-hossain" height="30" width="40" /></a>
@@ -28,7 +28,7 @@ It's Riyad Hossain
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -46,7 +46,7 @@ It's Riyad Hossain
 
  </br>
 
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+<h2>Github Stats: <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"></h2>
 
 <div align="center">
   <a href="https://github.com/RiyaadHossain">
@@ -61,9 +61,11 @@ It's Riyad Hossain
   
 <div align="center">
   
-
+<p align="center"> <a href="https://github.com/RiyaadHossain/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RiyaadHossain&row=1&column=6&theme=onedark" alt="RiyaadHossain" /></a> </p>
+ 
+<!-- Comment Down
 [![trophy](https://github-profile-trophy.vercel.app/?username=RiyaadHossain)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+</div> -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiyaadHossain)  
 
