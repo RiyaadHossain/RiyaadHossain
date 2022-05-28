@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="center"  width="600"  src="https://ibb.co/869KTqz">
+ <img align="center"  width="800"  src="https://i.ibb.co/J5HB0Vx/2.png">
 </div>
 <h1 align="center">👋 It's Riyad Hossain</h1>
 <h3 align="center">Web Developer || MERN Stack || Enthusiast in Web Application Development</h3>
