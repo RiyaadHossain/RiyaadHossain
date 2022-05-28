@@ -3,17 +3,17 @@
  <img align="center"  width="800"  src="https://i.ibb.co/J5HB0Vx/2.png">
 </div>
 <h1 align="center">👋 It's Riyad Hossain</h1>
-<h3 align="center">Web Developer || MERN Stack || Enthusiast in Web Application Development</h3>
+<h3 align="center">Front-end Web Developer || React Developer || Enthusiast in Web Application Development</h3>
 
 ## **About Me: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">**
 It's Riyad Hossain
 
-<h4>Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js / MongoDB</h4>
+<h4>Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js / MongoDB / Firebase / JWT Token / Figma</h4>
 
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on MERN Stack 
-- 🤔 I’m looking for help with Developer 
+- 🌱 I’m currently learning MERN Stack 
+- 👯 I’m looking to collaborate on Companies 
+- 🤔 I’m looking for help with Web Developer 
 - 💬 Ask me about Front-end Development 
 - ⚡ Fun fact: Eat | Sleep | Code 🔁 
 
