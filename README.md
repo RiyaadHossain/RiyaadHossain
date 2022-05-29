@@ -24,7 +24,6 @@ A motivated individual with in-depth knowledge of front-end technologies and dev
  <a href="https://twitter.com/riyaad_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaad_hossain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/riyaad-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaad-hossain" height="30" width="40" /></a>
 <a href="https://instagram.com/riyaad.hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyaad.hossain" height="30" width="40" /></a>
-<a href="https://codepen.io/@riyaad-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@riyaad-hossain" height="30" width="40" /></a>
 </p>
 
 
