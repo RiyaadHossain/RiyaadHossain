@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="center"  width="800"  src="https://i.ibb.co/J5HB0Vx/2.png">
+ <img align="center"  width="800"  src="./Assets/banner-img.png">
 </div>
 <h1 align="center">👋 It's Riyad Hossain</h1>
 <h3 align="center">Back-end Developer || React Developer || Enthusiast in Web Application Development</h3>
