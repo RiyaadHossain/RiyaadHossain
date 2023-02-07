@@ -1,4 +1,3 @@
-
 <div align="center">
  <img align="center"  width="800"  src="./Assets/banner-img.png">
 </div>
@@ -6,18 +5,19 @@
 <h3 align="center">Back-end Developer || React Developer || Enthusiast in Web Application Development</h3>
 
 ## **About Me: <img src="./Assets/about-me.gif" width="40">**
+
 A motivated individual with in-depth knowledge of development technologies and tools, seeking a position in a growth-oriented company where I can utilize my skills to the expansion of the company while having the scope to develop my own proficiency.
 
-<h4>Skills:  HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js / MongoDB / Firebase / JWT Token / Postman / Figma</h4>
+<h4>Skills: </h4>  <span>HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js / MongoDB / Firebase / JWT Token / Postman / Axios / React-Hook-Form / Redux / Redux-Toolkit / RTK Query / Figma</span>
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning MERN Stack 
-- 👯 I’m looking to collaborate on Companies 
-- 🤔 I’m looking for help with Web Developer 
-- 💬 Ask me about Front-end Development 
-- ⚡ Fun fact: Eat | Sleep | Code 🔁 
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate on Companies
+- 🤔 I’m looking for help with Web Developer
+- 💬 Ask me about Front-end Development
+- ⚡ Fun fact: Eat | Sleep | Code 🔁
 
-![Profile views](https://gpvc.arturio.dev/RiyaadHossain)  
+![Profile views](https://gpvc.arturio.dev/RiyaadHossain)
 
 <h2>Connect With Me <img width="42" src = "./Assets/contact.gif" ></h2>
 <p align="left">
@@ -25,7 +25,6 @@ A motivated individual with in-depth knowledge of development technologies and t
 <a href="https://linkedin.com/in/riyaad-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaad-hossain" height="30" width="40" /></a>
 <a href="https://instagram.com/riyaad.hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyaad.hossain" height="30" width="40" /></a>
 </p>
-
 
 <h2>Languages and Tools <img src = "./Assets/code.gif" width="42"></h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -66,14 +65,6 @@ A motivated individual with in-depth knowledge of development technologies and t
 [![trophy](https://github-profile-trophy.vercel.app/?username=RiyaadHossain)](https://github.com/ryo-ma/github-profile-trophy)
 </div> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiyaadHossain)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiyaadHossain)
 
-![GitHub metrics](https://metrics.lecoq.io/RiyaadHossain)  
-
-
-
-
-
-
-
-
+![GitHub metrics](https://metrics.lecoq.io/RiyaadHossain)
