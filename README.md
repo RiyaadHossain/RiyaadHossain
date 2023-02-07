@@ -10,6 +10,8 @@ A motivated individual with in-depth knowledge of development technologies and t
 
 <h4>Skills: </h4>  <span>HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node.js / Express.js / MongoDB / Firebase / JWT Token / Postman / Axios / React-Hook-Form / Redux / Redux-Toolkit / RTK Query / Figma</span>
 
+</br>
+
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Companies
