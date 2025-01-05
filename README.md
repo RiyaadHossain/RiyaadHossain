@@ -2,7 +2,7 @@
  <img align="center"  width="800"  src="./Assets/banner-img.png">
 </div>
 <h1 align="center">👋 It's Riyad Hossain</h1>
-<h3 align="center">Back-end Developer || React Developer || Enthusiast in Web Application Development</h3>
+<h3 align="center">Problem Solver || Competitive Programmer || Enthusiast in Web Application Development</h3> 
 
 ## **About Me: <img src="./Assets/about-me.gif" width="40">**
 
