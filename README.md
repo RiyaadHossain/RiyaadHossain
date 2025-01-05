@@ -19,10 +19,12 @@ A motivated individual with in-depth knowledge of development technologies and t
 - 💬 Ask me about Front-end Development
 - ⚡ Fun fact: Eat | Sleep | Code 🔁
 
-![Profile views](https://gpvc.arturio.dev/RiyaadHossain)
+<!-- ![Profile views](https://gpvc.arturio.dev/RiyaadHossain) -->
 
 <h2>Connect With Me <img width="42" src = "./Assets/contact.gif" ></h2>
 <p align="left">
+ <a href="https://codeforces.com/profile/Riyad_Hossain" target="blank"><img align="center" src="./Assets/Codeforces_icon.svg" alt="codeforces icon" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/riyadhossain" target="blank"><img align="center" src="./Assets/codechef_icon.jpg" alt="codeforces icon" height="30" width="40" /></a>
  <a href="https://twitter.com/riyaad_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaad_hossain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/riyaad-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaad-hossain" height="30" width="40" /></a>
 <a href="https://instagram.com/riyaad.hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyaad.hossain" height="30" width="40" /></a>
@@ -67,6 +69,6 @@ A motivated individual with in-depth knowledge of development technologies and t
 [![trophy](https://github-profile-trophy.vercel.app/?username=RiyaadHossain)](https://github.com/ryo-ma/github-profile-trophy)
 </div> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiyaadHossain)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiyaadHossain) -->
 
-![GitHub metrics](https://metrics.lecoq.io/RiyaadHossain)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/RiyaadHossain) -->
