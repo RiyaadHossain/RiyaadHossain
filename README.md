@@ -45,6 +45,7 @@ I have hands-on experience with a wide range of technologies, including:
 
 ## 🔗 **Let’s Connect!**  
 Feel free to explore my work and connect with me:  
+- **📧 Email**: [riyadhossain.dev@gmail.com](mailto:riyadhossain.dev@gmail.com)  
 - **📄 Resume**: [Link](https://drive.google.com/file/d/1SEG9JXOVzQXMEpApLUkcnmLTK5qeNRxr/view?usp=sharing)  
 - **👔 LinkedIn**: [Link](https://www.linkedin.com/in/riyaad-hossain/)  
 - **🧑‍💻 Codeforces**: [Link](https://codeforces.com/profile/AlgorithmicRiyad)  
